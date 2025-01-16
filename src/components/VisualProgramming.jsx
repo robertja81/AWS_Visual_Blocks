@@ -122,7 +122,7 @@ const VisualProgramming = () => {
 
   return (
     <div className="p-6 bg-gray-50 rounded-xl">
-      <h2 className="text-2xl font-bold mb-6">AWS Visual Programming</h2>
+      <h2 className="text-2xl font-bold mb-6">AWS Visual Programming - By Robert Anderson</h2>
       <div className="grid grid-cols-1 gap-4 mb-8">
         <Block 
           type="session" 
